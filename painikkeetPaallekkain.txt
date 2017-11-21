@@ -1,0 +1,14 @@
+Otsikko: Kaksi painiketta hankalasti päällekkäin
+
+Raportoija: Ville Koljonen
+
+Päivämäärä: 21.11.2017
+
+Kuvaus: Bussikuvaketta klikatessa avautuu pysäkkilistaus,
+jonka oikean yläkulman sulkemispainike jää osittain karttanäkymän hakupainikkeen alle.
+
+Toistaminen: Sulje vasemman reunan aikatauluhakuvalikko, jos auki. Tällöin oikeassa
+yläkulmassa on suurennuslasipainike. Klikkaa mitä tahansa bussi-ikonia, jolloin
+avautuvan valikon rastipainike on suurennuslakipainikkeen alla.
+
+Ympäristö: Firefox 57.0, Windows ja Ubuntu
