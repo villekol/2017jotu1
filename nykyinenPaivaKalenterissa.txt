@@ -1,0 +1,11 @@
+Otsikko: Nykyinen päivämäärä korostettu kalenterin jokaisena vuotena
+
+Raportoija: Ville Koljonen
+
+Päivämäärä: 21.11.2017
+
+Kuvaus: Aikatauluhaun kalenteri korostaa nykyisen päivämäärän vuodesta riippumatta.
+
+Toistaminen: Selaa kalenteria vuosia eteenpäin.
+
+Ympäristö: Firefox 57.0, Windows
